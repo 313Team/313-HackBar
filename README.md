@@ -1,6 +1,7 @@
 <center>
 # HackBar For firefox & Cyberfox add-ons
 </center>
+
 [![GitHub issues](https://img.shields.io/github/issues/PhHitachi/HackBar)](https://GitHub.com/PhHitachi/HackBar/issues/)
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/PhHitachi/HackBar/releases/)
 [![GitHub forks](https://img.shields.io/github/forks/PhHitachi/HackBar)](https://GitHub.com/PhHitachi/HackBar/network/)
