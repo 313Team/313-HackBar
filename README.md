@@ -10,7 +10,7 @@ HackBar is a security audit tool that will enable you to pentest websites more e
 
 ### 313 HackBar V1.3 Review
 [Click to download/watch the video](https://313team.github.io/313-HackBar/image/313%20HackBar%20V1.3.mp4)
-<vedio src="https://313team.github.io/313-HackBar/image/313%20HackBar%20V1.3.mp4">
+
 ### add-ons
  - LiveHTTPHeader 
  - Tamper Data
