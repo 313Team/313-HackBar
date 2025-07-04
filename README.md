@@ -15,33 +15,6 @@ HackBar is a security audit tool that will enable you to pentest websites more e
  - JS on/off
  - noRedirect
  - HTTP Proxy 
- <!-- - Admin Finder-->
-
-### HOW TO CUSTOMIZE HACKBAR?
-
-- [Read here](https://github.com/PhHitachi/Hackbar/blob/master/customized.md)
-
-### HOW TO MODIFY HACKBAR?
-
-<b>Needed:</b>
-- [7-zip](https://www.7-zip.org/)
-
-<b>Steps</b>:
-
- 1. git clone https://github.com/PhHitachi/HackBar.git
- 2. cd HackBar/test `this open source you are available to modify the code`
- 
-    `Compressing Hackbar as addons`
- 3. `7z a hackbar.xpi *` 
-
-![](https://github.com/PhHitachi/Hackbar/blob/master/img/compress.png)
-
- <b>NOTE:</b> if you are windows and and you face this error in step 3:
-
- `7z is not recognized as an internal or external command`
-
-run this command on your terminal `set PATH=%PATH%;C:\Program Files\7-Zip\`
-this command is adding `7-zip` in environment
 
 ### HOW TO INSTALL ON BROWSER?
 
