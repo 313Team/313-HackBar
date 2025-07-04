@@ -1,5 +1,5 @@
 <center>
-<h1>HackBar For firefox & Cyberfox add-ons</h1>
+<h1>313 HackBar V1.3</h1>
 </center>
 
 <img src=""/>
