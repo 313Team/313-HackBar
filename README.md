@@ -30,16 +30,6 @@ goto "about:addons"
 Click settings and "install addons from file.." and goto hackbar file and install 
 ![](https://github.com/PhHitachi/Hackbar/blob/master/img/install-from-files.png)
 
-[Releases](https://github.com/PhHitachi/HackBar/releases/):
+[Releases](https://github.com/313Team/313-HackBar/releases):
 
-- [Latest](https://github.com/PhHitachi/HackBar/releases/latest)
-- [HackBar v2.6](https://github.com/PhHitachi/HackBar/releases/tag/v2.6)
-- [HackBar v2.7](https://github.com/PhHitachi/HackBar/releases/tag/v2.7)
-- [HackBar v2.8](https://github.com/PhHitachi/HackBar/releases/tag/v2.8)
-- [HackBar v2.9](https://github.com/PhHitachi/HackBar/releases/tag/v2.9) `latest`
-
-### Change logs
-[Read here](https://github.com/PhHitachi/HackBar/blob/master/ChangeLog.md)
-
-
-
+- [313 HackBar V1.3](https://github.com/313Team/313-HackBar/releases/tag/313HackBar) `latest`
