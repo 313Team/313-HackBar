@@ -15,7 +15,7 @@ HackBar is a security audit tool that will enable you to pentest websites more e
  - JS on/off
  - noRedirect
  - HTTP Proxy 
- - Admin Finder
+ <!-- - Admin Finder-->
 
 ### HOW TO CUSTOMIZE HACKBAR?
 
