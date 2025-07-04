@@ -9,7 +9,7 @@
 HackBar is a security audit tool that will enable you to pentest websites more easily. ... You can use it to check site security by performing SQL injections, XSS holes and more. It also has a user-friendly interface that makes it easy for you to do fuzz testing, hash generation, encoding and more.
 
 ### 313 HackBar V1.3 Review
-https://github.com/313Team/313-HackBar/blob/main/image/313%20HackBar%20V1.3.mp4
+<img src="https://github.com/313Team/313-HackBar/blob/main/image/313%20HackBar%20V1.3.mp4">
 
 ### add-ons
  - LiveHTTPHeader 
