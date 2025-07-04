@@ -1,5 +1,5 @@
 <center>
-# HackBar For firefox & Cyberfox add-ons
+<h1>HackBar For firefox & Cyberfox add-ons</h1>
 </center>
 
 [![GitHub issues](https://img.shields.io/github/issues/PhHitachi/HackBar)](https://GitHub.com/PhHitachi/HackBar/issues/)
